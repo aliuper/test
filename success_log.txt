@@ -1,0 +1,12 @@
+Ürün adeti başarıyla güncellendi.
+Masa ID: 2
+Product ID: 4
+New Quantity: undefined
+Ürün adeti başarıyla güncellendi.
+Masa ID: 8
+Product ID: 1
+New Quantity: undefined
+Ürün adeti başarıyla güncellendi.
+Masa ID: 8
+Product ID: 2
+New Quantity: undefined
